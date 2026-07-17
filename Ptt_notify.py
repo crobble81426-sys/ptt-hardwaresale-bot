@@ -31,4 +31,4 @@ for a in articles:
         with open(RECORD_FILE, "a") as f:
             f.write(link + "\n")
 
-        break  # 只通知最新一篇
+        break  # 只通知最新一
